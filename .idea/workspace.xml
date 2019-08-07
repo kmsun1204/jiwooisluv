@@ -2,42 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cb10f6a-548d-4887-a552-028fc4de187f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/posts/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fourthproject-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/diq/diq/diqapp/templates/diqapp/diapp_create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/diq/diq/diqapp/templates/diqapp/diqapp_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/diq/diq/diqapp/templates/diqapp/diqapp_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/diq/diq/diqapp/templates/diqapp/diqapp_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/diq/diq/diqapp/templates/diqapp/diqqapp_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/diq/diq/diqapp/url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/likelion/mysite/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/likelion/mysite/blog/templates/blog/results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/lol/lol/templates/lol/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/mysitek/blog/directiory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/mysitek/blog/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/mysitek/blog/templates/blog/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/mysitek/blog/templates/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/mysitek/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secondproject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secondproject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secondproject/.idea/secondproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secondproject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../secondproject/secondproject/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Desktop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apple/apple/.ebextensions/django.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apple/apple/movie/templates/movie/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apple/apple/movie/templates/movie/count.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apple/apple/movie/templates/movie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apple/apple/movie/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/posts/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/model/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/model/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/model/filter_classic.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/model/filter_classic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/model/filter_modern.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/model/filter_modern.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/model/filter_orient.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/model/filter_orient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/model/filter_western.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/model/filter_western.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/model/model.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/model/model.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/model/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/model/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/photo/photo.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/photo/photo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/photo/photo_filter_classic.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/photo/photo_filter_classic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/photo/photo_filter_modern.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/photo/photo_filter_modern.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/photo/photo_filter_orient.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/photo/photo_filter_orient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/photo/photo_filter_western.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/photo/photo_filter_western.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/photo/photo_post.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/photo/photo_post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../git-2.21.0-intel-universal-mavericks.dmg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../likelion 2/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../likelion 2/.idea/modules.xml" beforeDir="false" />
@@ -361,6 +350,26 @@
       <change beforePath="$PROJECT_DIR$/../likelion 2/venv/p.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../likelion 2/venv/pyvenv.cfg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../likelion 2/venv/shoes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/diq/diq/diqapp/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/diq/diq/diqapp/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_confirm_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_confirm_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_update.html" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/templates/lolapp/lolapp_update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/lol/lol/lolapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/mysitek/blog/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/mysitek/blog/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_confirm_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_confirm_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_create.html" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_update.html" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/templates/teamapp/teamapp_update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../likelion/teamboard/teamboard/teamapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python f(x).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../secondproject/secondproject/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../secondproject/secondproject/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../김민선함수사전/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../김민선함수사전/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../김민선함수사전/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../김민선함수사전/.idea/김민선함수사전.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../무제 폴더 2/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../무제 폴더/Haroopad v0.13.1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../무제 폴더/PyCharm" beforeDir="false" />
@@ -374,24 +383,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/model/model.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="55" column="18" lean-forward="true" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
-              <folding>
-                <element signature="e#1685#1692#0#HTML" expanded="true" />
-                <element signature="e#1742#1749#1#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="495">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -399,65 +395,87 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/model/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="300">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/photo/photo.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/model/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="215">
+              <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/photo/photo_detail.html">
+        <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="219" column="28" selection-start-line="219" selection-start-column="28" selection-end-line="219" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/posts/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <folding>
+                <element signature="e#17#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/posts/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/posts/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/posts/forms.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_classic.html">
+        <entry file="file://$PROJECT_DIR$/posts/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_modern.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_orient.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_western.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/photo/photo_post.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -470,7 +488,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -478,17 +496,21 @@
         <option value="$PROJECT_DIR$/insta_project/urls.py" />
         <option value="$PROJECT_DIR$/posts/urls.py" />
         <option value="$PROJECT_DIR$/insta_project/settings.py" />
-        <option value="$PROJECT_DIR$/templates/model/post.html" />
-        <option value="$PROJECT_DIR$/templates/model/filter_western.html" />
-        <option value="$PROJECT_DIR$/templates/model/filter_orient.html" />
-        <option value="$PROJECT_DIR$/templates/model/filter_modern.html" />
-        <option value="$PROJECT_DIR$/templates/model/filter_classic.html" />
-        <option value="$PROJECT_DIR$/templates/photo/photo.html" />
-        <option value="$PROJECT_DIR$/templates/photo/photo_filter_classic.html" />
         <option value="$PROJECT_DIR$/templates/photo/photo_filter_modern.html" />
         <option value="$PROJECT_DIR$/templates/photo/photo_filter_orient.html" />
         <option value="$PROJECT_DIR$/templates/photo/photo_filter_western.html" />
+        <option value="$PROJECT_DIR$/templates/model/filter_modern.html" />
+        <option value="$PROJECT_DIR$/templates/model/filter_classic.html" />
+        <option value="$PROJECT_DIR$/templates/model/filter_orient.html" />
+        <option value="$PROJECT_DIR$/templates/model/filter_western.html" />
         <option value="$PROJECT_DIR$/templates/model/model.html" />
+        <option value="$PROJECT_DIR$/templates/photo/photo.html" />
+        <option value="$PROJECT_DIR$/templates/photo/photo_filter_classic.html" />
+        <option value="$PROJECT_DIR$/posts/views.py" />
+        <option value="$PROJECT_DIR$/posts/models.py" />
+        <option value="$PROJECT_DIR$/templates/photo/photo_post.html" />
+        <option value="$PROJECT_DIR$/templates/model/post.html" />
+        <option value="$PROJECT_DIR$/templates/model/detail.html" />
         <option value="$PROJECT_DIR$/posts/static/css/style.css" />
       </list>
     </option>
@@ -530,6 +552,17 @@
               <item name="final-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="final-master" type="462c0819:PsiDirectoryNode" />
               <item name="insta_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final-master" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final-master" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="CACHE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="final-master" type="b2602c69:ProjectViewProjectNode" />
@@ -578,6 +611,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -641,12 +675,12 @@
       <workItem from="1565158333477" duration="2428000" />
       <workItem from="1565161399016" duration="780000" />
       <workItem from="1565163297182" duration="2104000" />
-      <workItem from="1565166639001" duration="4515000" />
+      <workItem from="1565166639001" duration="26170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9827000" />
+    <option name="totallyTimeSpent" value="31482000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -683,11 +717,175 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32872927" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/photo/photo_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_orient.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="74" column="7" lean-forward="true" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
+          <folding>
+            <element signature="e#2203#2210#1#HTML" expanded="true" />
+            <element signature="e#2280#2287#1#HTML" expanded="true" />
+            <element signature="e#2713#2720#1#HTML" expanded="true" />
+            <element signature="e#2824#2831#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/model/filter_classic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="52" column="14" lean-forward="true" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+          <folding>
+            <element signature="e#2225#2232#1#HTML" expanded="true" />
+            <element signature="e#2302#2309#1#HTML" expanded="true" />
+            <element signature="e#2735#2742#1#HTML" expanded="true" />
+            <element signature="e#2846#2853#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/model/filter_modern.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="68" column="7" lean-forward="true" selection-start-line="68" selection-start-column="7" selection-end-line="68" selection-end-column="7" />
+          <folding>
+            <element signature="e#2199#2206#1#HTML" expanded="true" />
+            <element signature="e#2276#2283#1#HTML" expanded="true" />
+            <element signature="e#2709#2716#1#HTML" expanded="true" />
+            <element signature="e#2820#2827#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_western.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="76" column="7" lean-forward="true" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+          <folding>
+            <element signature="e#2202#2209#1#HTML" expanded="true" />
+            <element signature="e#2279#2286#1#HTML" expanded="true" />
+            <element signature="e#2712#2719#1#HTML" expanded="true" />
+            <element signature="e#2823#2830#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_modern.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="e#2212#2219#1#HTML" expanded="true" />
+            <element signature="e#2289#2296#1#HTML" expanded="true" />
+            <element signature="e#2722#2729#1#HTML" expanded="true" />
+            <element signature="e#2833#2840#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/model/filter_orient.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#2174#2181#1#HTML" expanded="true" />
+            <element signature="e#2251#2258#1#HTML" expanded="true" />
+            <element signature="e#2684#2691#1#HTML" expanded="true" />
+            <element signature="e#2795#2802#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/photo/photo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/model/filter_western.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="42" column="85" selection-start-line="42" selection-start-column="85" selection-end-line="42" selection-end-column="85" />
+          <folding>
+            <element signature="e#2177#2184#1#HTML" expanded="true" />
+            <element signature="e#2254#2261#1#HTML" expanded="true" />
+            <element signature="e#2687#2694#1#HTML" expanded="true" />
+            <element signature="e#2798#2805#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_classic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+          <folding>
+            <element signature="e#2300#2307#1#HTML" expanded="true" />
+            <element signature="e#2377#2384#1#HTML" expanded="true" />
+            <element signature="e#2810#2817#1#HTML" expanded="true" />
+            <element signature="e#2921#2928#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insta_project/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insta_project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1815">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insta_project/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insta_project/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/posts/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -697,47 +895,6 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/forms.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insta_project/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insta_project/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-526">
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insta_project/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -751,109 +908,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/insta_project/settings.py">
+    <entry file="file://$PROJECT_DIR$/posts/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        <state relative-caret-position="298">
+          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/model/filter_western.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/model/filter_orient.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/model/filter_modern.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/model/filter_classic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/model/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-147" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/photo/photo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/photo/photo_detail.html">
+    <entry file="file://$PROJECT_DIR$/posts/forms.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_classic.html">
+    <entry file="file://$PROJECT_DIR$/posts/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="246">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_modern.html">
+    <entry file="file://$PROJECT_DIR$/posts/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_orient.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/photo/photo_post.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/photo/photo_filter_western.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/model/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="495">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/model/model.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="55" column="18" lean-forward="true" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
-          <folding>
-            <element signature="e#1685#1692#0#HTML" expanded="true" />
-            <element signature="e#1742#1749#1#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="495">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="219" column="28" selection-start-line="219" selection-start-column="28" selection-end-line="219" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/model/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/model/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
         </state>
       </provider>
     </entry>

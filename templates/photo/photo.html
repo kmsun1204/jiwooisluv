@@ -8,29 +8,47 @@
 
 
 </head>
-
-
 <body>
-    <a href="{% url 'photo' %}"><h1> PHOTOGRAPHER </h1></a>
-    <br>
-    <h5> KEYWORDS </h5>
-    <a href="{% url 'photo_filter_orient' %}"><button> 동양풍 </button></a>
-    <a href="{% url 'photo_filter_western' %}"><button> 서양풍 </button></a>
-    <a href="{% url 'photo_filter_classic' %}"><button> 고전 </button></a>
-    <a href="{% url 'photo_filter_modern' %}"><button> 현대 </button></a>
-    
-    <br>
-    <a href="{% url 'photo_post' %}"><button>Upload Image</button></a>
-    <br>
-    <br>
-    <ul>
-        {% for photo in object_list %}
-            <a href="{% url 'photo_detail' photo.id %}"><img src="{{ photo.thumbnail.url }}" width="350" alt = "{{ photo.title }}"></a>
-            {{ photo.title }}
-            {{ photo.text|slice:":10" }}
-        {% endfor %}
-    </ul>
+<a href="../home/home.html">
+                <img class="logo" src="../../static/image/logo.png" alt="">
+            </a>
+            <div class="title">
+                <p>photographer</p>
+            </div>
+            <div class="category">
+                <a href="">logout</a>
+                <a href="">mypage</a>
+            </div>
+            <div class="keywords">
+                <p>keywords</p>
+            </div>
 
+
+   <div class="row-key">
+    <a href="{% url 'photo_filter_orient' %}"><button class="sixth"> 동양풍 </button></a>
+    <a href="{% url 'photo_filter_western' %}"><button class="sixth"> 서양풍 </button></a>
+    <a href="{% url 'photo_filter_classic' %}"><button class="sixth"> 고전 </button></a>
+    <a href="{% url 'photo_filter_modern' %}"><button class="sixth"> 현대 </button></a>
+   </div>
+
+    <div class="uploadpost">
+        <a href="{% url 'post' %}"><button class="sixth">Upload Image</button></a></div>
+
+<div class="array">
+                {% for photo in object_list %}
+                        <div class="card">
+                            <div class="box-1">
+                                <img src="{{ photo.thumbnail.url }}" width="200" height="250" alt = "{{ photo.title }}">
+                            </div>
+                            <div class="box-2">
+                                <h4>{{ photo.title }}</h4>
+                                <a href="{% url 'photo_detail' photo.id %}"><p>{{ photo.text|slice:":15" }}...more</p></a>
+                            </div>
+                        </div>
+                {% endfor %}
+            </div>
+
+<div align="center">
     {% if is_paginated %}
   <ul class="pagination">
     {% if page_obj.has_previous %}
@@ -51,5 +69,6 @@
       <li class="disabled"><span>&raquo;</span></li>
     {% endif %}
   </ul>
-{% endif %}
+    {% endif %}
+</div>
 </body>
